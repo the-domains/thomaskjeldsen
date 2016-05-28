@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-28T15:13:41.374Z'
-dateModified: '2016-05-28T15:13:02.514Z'
+datePublished: '2016-05-28T15:25:46.836Z'
+dateModified: '2016-05-28T15:25:46.466Z'
 title: Mobildiskotek Larger Than Life
 author: []
+sourcePath: _posts/2016-05-28-mobildiskotek-larger-than-life.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-28-mobildiskotek-larger-than-life.md
 url: mobildiskotek-larger-than-life/index.html
 _type: Article
 
@@ -20,7 +20,7 @@ _type: Article
 # Mobildiskotek Larger Than Life
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69a38a25-2f9e-4ff6-8426-843e7df11106.jpg)
 
-[Webpage][0]
+[Website][0]
 
 [Facebook][1]
 
