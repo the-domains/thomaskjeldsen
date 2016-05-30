@@ -4,8 +4,15 @@
         <description><![CDATA[Thomas Kjeldsen]]></description>
         <link>https://thegrid.ai/thomaskjeldsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 06:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 14:36:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thomaskjeldsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobildiskotek Larger Than Life]]></title>
+            <description><![CDATA[<article><h1>Mobildiskotek Larger Than Life</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69a38a25-2f9e-4ff6-8426-843e7df11106.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thomaskjeldsen/mobildiskotek-larger-than-life/index.html</link>
+            <guid isPermaLink="false">53297044-60e7-4ef1-b110-b8ec5d0bcbae</guid>
+            <pubDate>Mon, 30 May 2016 14:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Velkommen til min hjemmeside!]]></title>
             <description><![CDATA[<article><h1>Velkommen til min hjemmeside!</h1><p>Formålet er først og fremmest at teste TheGrid.io, som denne hjemmeside er lavet med.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b758f30cb1d3b17c20959c10684879820fa2610.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://raeson.dk/2015/joachim-b-olsen-kritikken-af-uber-og-airbnb-er-udtryk-for-historieloeshed</link>
             <guid isPermaLink="false">7297466c-7e80-4630-a951-c73389548f33</guid>
             <pubDate>Mon, 30 May 2016 06:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobildiskotek Larger Than Life]]></title>
-            <description><![CDATA[<article><h1>Mobildiskotek Larger Than Life</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69a38a25-2f9e-4ff6-8426-843e7df11106.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thomaskjeldsen/mobildiskotek-larger-than-life/index.html</link>
-            <guid isPermaLink="false">53297044-60e7-4ef1-b110-b8ec5d0bcbae</guid>
-            <pubDate>Sat, 28 May 2016 15:25:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
