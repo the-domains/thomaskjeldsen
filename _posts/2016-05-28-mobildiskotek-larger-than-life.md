@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T14:36:15.273Z'
-dateModified: '2016-05-30T14:36:14.595Z'
+datePublished: '2016-05-30T18:23:12.904Z'
+dateModified: '2016-05-30T18:23:12.388Z'
 title: Mobildiskotek Larger Than Life
 author: []
 sourcePath: _posts/2016-05-28-mobildiskotek-larger-than-life.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: mobildiskotek-larger-than-life/index.html
 _type: Article
 
