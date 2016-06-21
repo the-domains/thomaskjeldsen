@@ -1,15 +1,7 @@
-layout_spectrum: 0.008129694731906056
-favicon: null
 name: Thomas Kjeldsen
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.008129694731906056
+typography_spectrum: 0.13861
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5467765652574599
-  saturation: 0.11868535168468952
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#210408'
+    - '#5a4154'
+    - '#595e96'
+    - '#98bed1'
+    - '#7793c2'
+  brandStrength: 0.5467765652574599
   lightness: 0.2326768843922764
+  saturation: 0.11868535168468952
   rhythmicContrast: 0.9160009559709579
-typography_spectrum: 0.13861
+purpose: []
