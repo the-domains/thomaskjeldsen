@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T18:23:12.904Z'
-dateModified: '2016-05-30T18:23:12.388Z'
+datePublished: '2016-06-21T14:12:16.901Z'
+dateModified: '2016-06-21T14:11:45.333Z'
 title: Mobildiskotek Larger Than Life
 author: []
 sourcePath: _posts/2016-05-28-mobildiskotek-larger-than-life.md
