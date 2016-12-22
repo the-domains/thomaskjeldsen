@@ -1,7 +1,38 @@
+typography_spectrum: 0.6462704357609043
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.5806871440696834
+  lightness: 0.3894286528494357
+  saturation: 0.8280668178437701
+  rhythmicContrast: 0.031455509396601876
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8097607101249223
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Thomas Kjeldsen
+  email: thomas.kjeldsen@icloud.com
 name: Thomas Kjeldsen
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'Mobildiskotek Larger Than Life '
+    url: 'http://largerthanlife.dk'
+    type: external
 favicon: null
-layout_spectrum: 0.008129694731906056
-typography_spectrum: 0.13861
 collections:
   - index:
       navigable: true
@@ -14,27 +45,13 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#210408'
-    - '#5a4154'
-    - '#595e96'
-    - '#98bed1'
-    - '#7793c2'
-  brandStrength: 0.5467765652574599
-  lightness: 0.2326768843922764
-  saturation: 0.11868535168468952
-  rhythmicContrast: 0.9160009559709579
-purpose: []
+title: Thomas Kjeldsen
+content: []
+description: A Grid Site
+purpose:
+  - type: contact
+    url: 'mailto:thomas.kjeldsen@icloud.com'
+    label: Send mig en e-mail
+  - type: external
+    url: 'http://facebook.com/thomas.kjeldsen1998'
+    label: Min Facebook
